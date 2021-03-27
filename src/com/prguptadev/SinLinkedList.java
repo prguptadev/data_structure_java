@@ -71,6 +71,7 @@ public class SinLinkedList {
                 System.out.println("founded and deleted at "+index+", value "+ n.next.data);
                 n1 = n.next;
                 n.next = n1.next;
+                n1 = null;
 
             }
             else{
