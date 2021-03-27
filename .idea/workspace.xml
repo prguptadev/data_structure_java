@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dad07f48-dcfc-4c7a-bb2c-91dd7f440b5e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prguptadev/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prguptadev/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prguptadev/OkRunman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prguptadev/SinLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/prguptadev/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prguptadev/Main.java" afterDir="false" />
     </list>
@@ -10,6 +31,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,23 +48,86 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.prguptadev.Main" />
-      <module name="data_structure_java" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+  <component name="RunManager" selected="Application.SinLinkedList">
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prguptadev.LinkedList" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prguptadev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Linkrun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prguptadev.Linkrun" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prguptadev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OkRunman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prguptadev.OkRunman" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prguptadev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SinLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prguptadev.SinLinkedList" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prguptadev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prguptadev.SingleLinkedList" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prguptadev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SinLinkedList" />
+        <item itemvalue="Application.SingleLinkedList" />
+        <item itemvalue="Application.LinkedList" />
+        <item itemvalue="Application.OkRunman" />
+        <item itemvalue="Application.Linkrun" />
       </list>
     </recent_temporary>
   </component>
@@ -52,5 +143,67 @@
       <updated>1612978722870</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="144" key="#com.intellij.ide.util.MemberChooser" timestamp="1616828515338">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="144" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1616828515338" />
+    <state x="530" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616826087428">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1616826087428" />
+    <state width="1556" height="217" key="GridCell.Tab.0.bottom" timestamp="1616831517494">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="217" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1616831517494" />
+    <state width="1556" height="217" key="GridCell.Tab.0.center" timestamp="1616831517494">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="217" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1616831517494" />
+    <state width="1556" height="217" key="GridCell.Tab.0.left" timestamp="1616831517493">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="217" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1616831517493" />
+    <state width="1556" height="217" key="GridCell.Tab.0.right" timestamp="1616831517494">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="217" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1616831517494" />
+    <state width="1556" height="270" key="GridCell.Tab.1.bottom" timestamp="1616824152896">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="270" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1616824152896" />
+    <state width="1556" height="270" key="GridCell.Tab.1.center" timestamp="1616824152896">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="270" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1616824152896" />
+    <state width="1556" height="270" key="GridCell.Tab.1.left" timestamp="1616824152896">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="270" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1616824152896" />
+    <state width="1556" height="270" key="GridCell.Tab.1.right" timestamp="1616824152896">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="270" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1616824152896" />
+    <state x="280" y="3" key="SettingsEditor" timestamp="1616828503301">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="3" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1616828503301" />
+    <state x="456" y="190" key="run.anything.popup" timestamp="1616826042907">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="190" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1616826042907" />
   </component>
 </project>
