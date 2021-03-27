@@ -57,6 +57,7 @@ public class SinLinkedList {
         }
         return size;
     }
+
     public void deleteByIndex(SinLinkedList sinLinkedList, int index){
         if(index == 0)
             sinLinkedList.head = sinLinkedList.head.next;
@@ -67,8 +68,10 @@ public class SinLinkedList {
                 for (int i = 0; i < index - 1; i++) {
                     n = n.next;
                 }
+                System.out.println("founded and deleted at "+index+", value "+ n.next.data);
                 n1 = n.next;
                 n.next = n1.next;
+
             }
             else{
                 System.out.println("OutofBoundIndex");
@@ -96,9 +99,11 @@ public class SinLinkedList {
         sinLinkedList.insertAt(sinLinkedList,786,2);
         sinLinkedList.insertAt(sinLinkedList,888,0);
         System.out.println("Size of singlelInked List " + sinLinkedList.size(sinLinkedList));
-
         sinLinkedList.deleteByIndex(sinLinkedList,0);
+        System.out.println("Size of singlelInked List " + sinLinkedList.size(sinLinkedList));
         sinLinkedList.deleteByIndex(sinLinkedList,300);
+        System.out.println("Size of singlelInked List " + sinLinkedList.size(sinLinkedList));
+        sinLinkedList.deleteByIndex(sinLinkedList,4);
         sinLinkedList.show(sinLinkedList);
         System.out.println("Size of singlelInked List " + sinLinkedList.size(sinLinkedList));
     }
