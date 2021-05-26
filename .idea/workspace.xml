@@ -19,7 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dad07f48-dcfc-4c7a-bb2c-91dd7f440b5e" name="Default Changelist" comment="" />
+    <list default="true" id="dad07f48-dcfc-4c7a-bb2c-91dd7f440b5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/prguptadev/CheckIFelse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prguptadev/Curency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prguptadev/Gradingstudent_HR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prguptadev/Inclusion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prguptadev/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prguptadev/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prguptadev/sorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/prguptadev/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prguptadev/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/prguptadev/OkRunman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prguptadev/OkRunman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/prguptadev/SinLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prguptadev/SinLinkedList.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,9 +60,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.SinLinkedList">
-    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prguptadev.LinkedList" />
+  <component name="RunManager" selected="Application.Gradingstudent_HR">
+    <configuration name="CheckIFelse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prguptadev.CheckIFelse" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
@@ -62,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Linkrun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prguptadev.Linkrun" />
+    <configuration name="Gradingstudent_HR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prguptadev.Gradingstudent_HR" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OkRunman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prguptadev.OkRunman" />
+    <configuration name="MyStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prguptadev.MyStack" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prguptadev.SingleLinkedList" />
+    <configuration name="sorter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prguptadev.sorter" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Gradingstudent_HR" />
+        <item itemvalue="Application.sorter" />
+        <item itemvalue="Application.MyStack" />
+        <item itemvalue="Application.CheckIFelse" />
         <item itemvalue="Application.SinLinkedList" />
-        <item itemvalue="Application.SingleLinkedList" />
-        <item itemvalue="Application.LinkedList" />
-        <item itemvalue="Application.OkRunman" />
-        <item itemvalue="Application.Linkrun" />
       </list>
     </recent_temporary>
   </component>
@@ -150,30 +162,30 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="605" y="144" key="#com.intellij.ide.util.MemberChooser" timestamp="1616828515338">
+    <state x="605" y="144" key="#com.intellij.ide.util.MemberChooser" timestamp="1619517993803">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="605" y="144" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1616828515338" />
+    <state x="605" y="144" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1619517993803" />
     <state x="530" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616826087428">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1616826087428" />
-    <state width="1556" height="217" key="GridCell.Tab.0.bottom" timestamp="1616832679066">
+    <state width="1556" height="259" key="GridCell.Tab.0.bottom" timestamp="1619517880566">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="217" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1616832679066" />
-    <state width="1556" height="217" key="GridCell.Tab.0.center" timestamp="1616832679066">
+    <state width="1556" height="259" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1619517880566" />
+    <state width="1556" height="259" key="GridCell.Tab.0.center" timestamp="1619517880566">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="217" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1616832679066" />
-    <state width="1556" height="217" key="GridCell.Tab.0.left" timestamp="1616832679066">
+    <state width="1556" height="259" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1619517880566" />
+    <state width="1556" height="259" key="GridCell.Tab.0.left" timestamp="1619517880566">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="217" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1616832679066" />
-    <state width="1556" height="217" key="GridCell.Tab.0.right" timestamp="1616832679066">
+    <state width="1556" height="259" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1619517880566" />
+    <state width="1556" height="259" key="GridCell.Tab.0.right" timestamp="1619517880566">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="217" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1616832679066" />
+    <state width="1556" height="259" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1619517880566" />
     <state width="1556" height="270" key="GridCell.Tab.1.bottom" timestamp="1616824152896">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

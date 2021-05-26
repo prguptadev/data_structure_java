@@ -1,5 +1,7 @@
 package com.prguptadev;
 
+import java.util.LinkedList;
+
 public class SinLinkedList {
     Node head;
 
@@ -59,6 +61,7 @@ public class SinLinkedList {
     }
 
     public void deleteByIndex(SinLinkedList sinLinkedList, int index){
+        LinkedList linkedList= new LinkedList();
         if(index == 0)
             sinLinkedList.head = sinLinkedList.head.next;
         else {
